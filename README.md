@@ -1,2 +1,2 @@
-# aide-m-moire
+# aide-mémoire
 Bout de code aide mémoire
