@@ -8,7 +8,7 @@
  *
  */
 
-namespace suidos;
+namespace app;
 
 use \PDO;
 
